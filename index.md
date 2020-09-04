@@ -1,4 +1,6 @@
-## Research interests
+## Appointments
+
+2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University
 
 ---
 
