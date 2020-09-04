@@ -1,18 +1,18 @@
-## Portfolio
+## Research interests
 
 ---
 
-### Category Name 1 
+### Projects
 
-[Project 1 Title](/sample_page)
+[Physical state and thermochemical structure: Antarctica](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Mutli-observables thermochemical tomography of Central and southern Africa](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Seismic study of the crust beneath the Nortern Scandinavian mountains](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
