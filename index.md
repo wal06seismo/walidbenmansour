@@ -4,7 +4,12 @@
 * 2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia)
 
 ---
+## Education
 
+* PhD in Geophysics, University of Leicester,School of Geography, Geology and Environment, United Kingdom
+* Msc in Geology-Geophysics, University of Nice, France
+
+---
 ### Projects
 
 [Physical state and thermochemical structure: Antarctica](/sample_page)
