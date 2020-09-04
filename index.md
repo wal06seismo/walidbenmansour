@@ -1,7 +1,7 @@
 ## Appointments
 
-* 2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University (US)
-* 2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia)
+* 2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University (USA).
+* 2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia).
 
 ---
 ## Education
@@ -14,11 +14,9 @@
 ### Projects
 
 [Physical state and thermochemical structure: Antarctica](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Mutli-observables thermochemical tomography of Central and southern Africa](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Seismic study of the crust beneath the Nortern Scandinavian mountains](http://example.com/)
@@ -36,6 +34,10 @@
 
 ---
 
+### Seminar
+* University Claude Bernard Lyon, France (June 2017)
+* Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
+* Geoazur, Université Côte d’Azur, France (November 2016).
 
 
 
