@@ -1,7 +1,7 @@
 ## Appointments
 
-2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University (US)
-2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia)
+* 2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University (US)
+* 2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia)
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Category Name 2
+### Publications
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
