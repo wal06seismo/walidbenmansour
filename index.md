@@ -26,7 +26,6 @@
 
 ---
 [Seismic study of the crust beneath the Nortern Scandinavian mountains](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
