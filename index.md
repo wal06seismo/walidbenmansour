@@ -34,7 +34,7 @@
 
 ---
 
-### Seminar
+### Seminars
 * University Claude Bernard Lyon, France (June 2017)
 * Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
 * Geoazur, Université Côte d’Azur, France (November 2016).
