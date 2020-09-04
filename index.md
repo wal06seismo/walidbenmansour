@@ -6,8 +6,9 @@
 ---
 ## Education
 
-* PhD in Geophysics, University of Leicester,School of Geography, Geology and Environment, United Kingdom
-* Msc in Geology-Geophysics, University of Nice, France
+* PhD in Geophysics, University of Leicester,School of Geography, Geology and Environment, Leicester,United Kingdom
+* Msc in Geology-Geophysics, University of Nice, Nice, France
+* Bsc in Geology-Geophysics, University Joseph Fourier, Grenoble, France
 
 ---
 ### Projects
