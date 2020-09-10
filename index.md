@@ -19,7 +19,7 @@
 ---
 ### Projects
 
-[Physical state and thermochemical structure: Antarctica](/project_1.md## This can be your internal website page/project_1)
+[Physical state and thermochemical structure: Antarctica](/projects)
 
 ---
 [Plume interaction and spreading ridge: Galapagos archipelagos](/sample_page)
