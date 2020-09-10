@@ -22,6 +22,6 @@
 ## Publications
 Ben Mansour, W, Fishwick, S , Köhler, A, England, R W, Moorkamp, M (under review). New crustal model across the northern Scandinavian mountains from Rayleigh wave ambient noise and receiver function analysis. 
  
-Ben Mansour, W, England, R W, Fishwick, S, Moorkamp, M (2018). Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions. Geophysical Journal International 214 (1), 386-401
+Ben Mansour, W, England, R W, Fishwick, S, Moorkamp, M (2018). Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions. Geophysical Journal International 214 (1), 386-401 (https://academic.oup.com/gji/article/214/1/386/4963746)
 
 ---
