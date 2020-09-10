@@ -22,13 +22,13 @@
 [Physical state and thermochemical structure: Antarctica](/sample_page)
 
 ---
-[Plume interaction and spreading ridge: Galapagos archipelagos](/project3)
+[Plume interaction and spreading ridge: Galapagos archipelagos](/sample_page)
 
 ---
-[Mutli-observables thermochemical tomography of Central and southern Africa](/pdf/sample_presentation.pdf)
+[Mutli-observables thermochemical tomography of Central and southern Africa](/sample_page)
 
 ---
-[Seismic study of the crust beneath the Nortern Scandinavian mountains](/project_1)
+[Seismic study of the crust beneath the Nortern Scandinavian mountains](/sample_page)
 
 ---
 
@@ -41,8 +41,6 @@
 * University Claude Bernard Lyon, France (June 2017)
 * Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
 * Geoazur, Université Côte d’Azur, France (November 2016).
-
-
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
