@@ -14,6 +14,6 @@
 ---
 
 ## Publications
-
+Ben Mansour, W, England, R W, Fishwick, S, Moorkamp, M (2018). Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions. Geophysical Journal International 214 (1), 386-401
 
 ---
