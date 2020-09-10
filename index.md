@@ -28,7 +28,7 @@
 [Mutli-observables thermochemical tomography of Central and southern Africa](/pdf/sample_presentation.pdf)
 
 ---
-[Seismic study of the crust beneath the Nortern Scandinavian mountains](/pdf/sample_presentation.pdf)
+[Seismic study of the crust beneath the Nortern Scandinavian mountains](/project_1)
 
 ---
 
