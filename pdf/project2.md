@@ -4,6 +4,6 @@
 
 **Pn travel time tomography:**
 
-**Thermochemical immaging:**
+**Thermochemical imaging:**
 
 **Publications:**
