@@ -30,15 +30,12 @@
 
 ---
 
-### Publications
+### Selected Publications
 
 
 ---
 
 ### Seminars
-* Tulane University (2021) 
-* Penn State (2021) 
-* Washinghton University in Saint Louis (2021)
 * Université de Strasbourg, France (Janurary 2018)
 * University Claude Bernard Lyon, France (June 2017)
 * Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
