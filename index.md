@@ -25,10 +25,10 @@
 [Plume interaction and spreading ridge: Galapagos archipelagos](/pdf/project2.md)
 
 ---
-[Mutli-observables thermochemical tomography of Central and southern Africa](/sample_page)
+[Mutli-observables thermochemical tomography of Central and southern Africa](/pdf/project3.md)
 
 ---
-[Seismic study of the crust beneath the Nortern Scandinavian mountains](/sample_page)
+[Seismic study of the crust beneath the Nortern Scandinavian mountains](/pdf/project4.md)
 
 ---
 
