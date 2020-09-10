@@ -22,7 +22,7 @@
 [Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
 
 ---
-[Plume interaction and spreading ridge: Galapagos archipelagos](/sample_page)
+[Plume interaction and spreading ridge: Galapagos archipelagos](/pdf/project2.md)
 
 ---
 [Mutli-observables thermochemical tomography of Central and southern Africa](/sample_page)
