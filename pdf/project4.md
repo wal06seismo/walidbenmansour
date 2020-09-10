@@ -25,6 +25,6 @@ Ben Mansour, W, Fishwick, S , Köhler, A, England, R W, Moorkamp, M (under revie
  
 Ben Mansour, W, England, R W, Fishwick, S, Moorkamp, M (2018). Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions. Geophysical Journal International 214 (1), 386-401.
 
-England, R W, Ebbing Jorg, Ben Mansour, W (2016). SCANLIPS3D-SCANdinavian LIthosphere P and S wave experiment 3D. NERC- Geophysical Eaquiment Facility- Loan 959
+England, R W, Ebbing Jorg, Ben Mansour, W (2016). SCANLIPS3D-SCANdinavian LIthosphere P and S wave experiment 3D. NERC-Geophysical Equiment Facility-Loan 959
 
 ---
