@@ -1,8 +1,8 @@
-## Seismic study of the crust beneath the Nortern Scandinavian mountains
+## This can be your internal website page / project page
 
-**Project description:** The mechanism of support for the present topography of Scandinavia is not well explained by current crustal models. High topography in Norway and Sweden (Scandinavian Alps) is directly in contact with a relatively flat region (the Baltic shield). A crustal root beneath the Scandinavian Alps, expected from Airy isostatic calculations, is not present and the gravity anomaly map suggests lateral variations in density support present day topography. To bring new constrains on the variation of crustal properties we use P-receiver functions and ambient seismic noise. 
+**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-### 1. Receiver functions
+### 1. Suggest hypotheses about the causes of observed phenomena
 
 Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
@@ -12,7 +12,7 @@ if (isAwesome){
 }
 ```
 
-### 2. Ambient seismic noise analysis
+### 2. Assess assumptions on which statistical inference will be based
 
 ```javascript
 if (isAwesome){
@@ -20,12 +20,12 @@ if (isAwesome){
 }
 ```
 
-### 3. Thermochemical imaging
+### 3. Support the selection of appropriate statistical tools and techniques
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-### 4. Field works
+### 4. Provide a basis for further data collection through surveys or experiments
 
-The SCANLIPS3D experiment builds on existing work conducted in Norway and Sweden (SCANLIPS and SCANLIPS2) to investigate the possible cause of the geologically recent (Miocene) uplift which has affected Scandinavia.  
+Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
 
-20 Guralp ESP (with 8 or 16 Gbytes of memory) 60 s period passive seismic instruments from the GEF were deployed in northern-central Norway in mid to late June 2013 and were recovered in early September 2014, providing 15 months of recording. The instruments were serviced in October 2013 and May 2014. 
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
