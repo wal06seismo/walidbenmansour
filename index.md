@@ -12,12 +12,6 @@
 * Bsc in Geology-Geophysics, University Joseph Fourier, Grenoble, France
 
 ---
-## Research interests
-* Physical state and thermochemical structre of crust and upper mantle
-* Mantle rheology
-* Seismic cycle
-
----
 ### Projects
 
 [Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
