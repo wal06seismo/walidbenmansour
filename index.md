@@ -12,7 +12,7 @@
 * Bsc in Geology-Geophysics, University Joseph Fourier, Grenoble, France
 
 ---
-### Projects
+## Projects
 
 [Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
 
@@ -30,7 +30,7 @@
 
 ---
 
-### Selected Publications
+## Selected Publications
 
 
 ---
