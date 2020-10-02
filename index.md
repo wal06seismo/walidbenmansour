@@ -36,6 +36,8 @@
 ---
 
 ### Seminars
+* University of Leicester, Leicester, UK (2021) 
+* Macquarie University, Sydney, Australia (2021) 
 * Tulane University, New Orleans, US (2021) 
 * Penn state University, US (2021)
 * Washinghton University in Saint Louis, St Louis, US (2021)
