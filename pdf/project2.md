@@ -23,4 +23,14 @@
 ## Publications
 
 
+**Conferences**
+
+Ben Mansour, W., Afonso, JC, Nolet, G, Oliveira Bravo, B. How does the interaction between mantle upwelling and lithosphere affect locally the thermochemical structure. Ada Lovelace workshop-modelling of mantle and lithosphere dynamics-Siena. Conference absract (Poster).
+
+
+Ben Mansour, W.,Nolet, G., Ruiz, M, Afonso, JC. Interaction between volcanisms inland and the spreading center: example of Galápagos archipelago. Japan Geoscience Union Meeting 2019. Conference abstract (Poster).
+
+W Ben Mansour, J.C Afonso, G. Nolet, B. Oliveira Bravo. How does the interaction between mantle upwelling and lithosphere affect locally the thermochemical structure. Ada Lovelace workshop-modelling of mantle and lithosphere dynamics-Siena. Conference absract (Poster).
+
+
 ---
