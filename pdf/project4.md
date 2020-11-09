@@ -32,7 +32,7 @@ England, R W, Ebbing Jorg, Ben Mansour, W (2016). SCANLIPS3D-SCANdinavian LIthos
 
 --Conferences---
 
-Ben Mansour, W, England,R W, Fishwick, S,  Köhler, A, Moorkamp, M , Ottemøller, L, Smirnov, M .Crustal properties in the continuum Baltic Shield-Scandinavian Mountains from seismic ambient noise and magnetotelluric analysis. EGU General Assembly 2016. Conference abstract (Poster).
+Ben Mansour, W, England,R W, Fishwick, S,  Köhler, A, Moorkamp, M , Ottemøller, L, Smirnov, M. Crustal properties in the continuum Baltic Shield-Scandinavian Mountains from seismic ambient noise and magnetotelluric analysis. EGU General Assembly 2016. Conference abstract (Poster).
 
 Ben Mansour, W., Moorkamp, M., Kohler, A., Fishwick, S. IUGG General Assembly 2015-Prague. Conference abstact (Oral).
 
