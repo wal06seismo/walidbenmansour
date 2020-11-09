@@ -20,6 +20,8 @@
 ---
 
 ## Publications
+Ben Mansour, W, Afonso, JC, Macdonald, A, Januszczak, N. The thermochemical structure of central and southern Africa from multi-observable probabilistic inversion. EGU General Assembly 2019, Conference abstract.
+
 
 
 ---
