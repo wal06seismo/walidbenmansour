@@ -30,16 +30,20 @@ Ben Mansour W (2017). Crustal properties in the transition from orogenic to crat
 
 England, R W, Ebbing Jorg, Ben Mansour, W (2016). SCANLIPS3D-SCANdinavian LIthosphere P and S wave experiment 3D. NERC-Geophysical Equiment Facility Report-Loan 959
 
-Conferences
+--Conferences---
 
-Ben Mansour, W., England, R. W., Moorkamp, M. Crustal imaging across the northern Scandinavian mountains from seismological and magnetotelluric data analysis. SEISMIX International Symposium on Multi-scale Seismic Imaging of the Earth's Crust and Upper Mantle 2014- Castelldefels. Conference abstract (Oral).
+Ben Mansour, W, England,R W, Fishwick, S,  Köhler, A, Moorkamp, M , Ottemøller, L, Smirnov, M .Crustal properties in the continuum Baltic Shield-Scandinavian Mountains from seismic ambient noise and magnetotelluric analysis. EGU General Assembly 2016. Conference abstract (Poster).
 
-Ben Mansour, W, Moorkamp, M, England, R.W. Joint Inversion of Seismological Data and Magnetotelluric Data for the Northern Scandinavian Mountains. AGU Fall Meeting 2014. Conference abstract (Poster).
+Ben Mansour, W., Moorkamp, M., Kohler, A., Fishwick, S. IUGG General Assembly 2015-Prague. Conference abstact (Oral).
 
 Ben Mansour,W , England, R.W.,Moorkamp, M. Seismic study of the crust beneath the Northern Mountains from Receiver Function analysis. EGU General Assembly 2015. Conference abstract (Poster).
 
 Ben Mansour,W., Moorkamp, M., Köhler, A., Fishwick, S. Crustal study of the Northern Scandinavian Mountains from receiver functions analysis and surface wave ambient noise. Japanese Geoscience Union Meeting 2015. Conference abstract (Poster).
 
-Ben Mansour, W., Moorkamp, M., Kohler, A., Fishwick, S. IUGG General Assembly 2015-Prague. Conference abstact (Oral).
+Ben Mansour, W., England, R. W., Moorkamp, M. Crustal imaging across the northern Scandinavian mountains from seismological and magnetotelluric data analysis. SEISMIX International Symposium on Multi-scale Seismic Imaging of the Earth's Crust and Upper Mantle 2014- Castelldefels. Conference abstract (Oral).
+
+Ben Mansour, W, Moorkamp, M, England, R.W. Joint Inversion of Seismological Data and Magnetotelluric Data for the Northern Scandinavian Mountains. AGU Fall Meeting 2014. Conference abstract (Poster).
+
+
 
 ---
