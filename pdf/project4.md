@@ -30,4 +30,10 @@ Ben Mansour W (2017). Crustal properties in the transition from orogenic to crat
 
 England, R W, Ebbing Jorg, Ben Mansour, W (2016). SCANLIPS3D-SCANdinavian LIthosphere P and S wave experiment 3D. NERC-Geophysical Equiment Facility Report-Loan 959
 
+Conferences
+
+Ben Mansour, W, Moorkamp, M, England, R.W. Joint Inversion of Seismological Data and Magnetotelluric Data for the Northern Scandinavian Mountains. AGU Fall Meeting 2014. Conference abstract (Poster).
+
+Ben Mansour,W , England, R.W.,Moorkamp, M. Seismic study of the crust beneath the Northern Mountains from Receiver Function analysis. EGU General Assembly 2015. Conference abstract (Poster).
+
 ---
