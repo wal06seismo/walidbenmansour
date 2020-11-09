@@ -36,4 +36,6 @@ Ben Mansour, W, Moorkamp, M, England, R.W. Joint Inversion of Seismological Data
 
 Ben Mansour,W , England, R.W.,Moorkamp, M. Seismic study of the crust beneath the Northern Mountains from Receiver Function analysis. EGU General Assembly 2015. Conference abstract (Poster).
 
+Ben Mansour, W., Moorkamp, M., Kohler, A., Fishwick, S. IUGG General Assembly 2015-Prague. Conference abstact (Oral).
+
 ---
