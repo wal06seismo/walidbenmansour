@@ -10,6 +10,10 @@
 
 **Results:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+## Publications
+* Ben Mansour, W, Afonso, JC, Macdonald, A, Januszczak, N. The thermochemical structure of central and southern Africa from multi-observable probabilistic inversion. EGU General Assembly 2019, Conference abstract.
+* Ben Mansour, W, Afonso, JC, Januszczak, N,  Macdonald, A, Nolet, G, Aoki, Y, Salajegheh, F. Thermochemical imaging of the lithosphere and upper mantle from geophysical observations: what can we really see? AGU Fall Meeting 2019, Conference abstract.
+
 ---
 
 ## Ambient seismic noise
@@ -20,8 +24,7 @@
 ---
 
 ## Publications
-* Ben Mansour, W, Afonso, JC, Macdonald, A, Januszczak, N. The thermochemical structure of central and southern Africa from multi-observable probabilistic inversion. EGU General Assembly 2019, Conference abstract.
-* Ben Mansour, W, Afonso, JC, Januszczak, N,  Macdonald, A, Nolet, G, Aoki, Y, Salajegheh, F. Thermochemical imaging of the lithosphere and upper mantle from geophysical observations: what can we really see? AGU Fall Meeting 2019, Conference abstract.
+
 
 
 ---
