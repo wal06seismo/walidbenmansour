@@ -26,8 +26,8 @@ Conventional plate tectonic theory does not explain why parts of the continental
 </figure>
 
 <p float="left">
-  <img src="ZRT_HK_Scandi.png" width="100" />
-  <img src="Moho_Poisson.png" width="100" /> 
+  <img src="ZRT_HK_Scandi.png" width="300" />
+  <img src="Moho_Poisson.png" width="300" /> 
 </p>
 
 ---
