@@ -15,7 +15,7 @@ Conventional plate tectonic theory does not explain why parts of the continental
  
   <img
   src="RFs_Scandi.png"
-  width="400">
+  width="500">
 </figure>
 <figure>
 ---
