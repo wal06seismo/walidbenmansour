@@ -11,25 +11,13 @@ Conventional plate tectonic theory does not explain why parts of the continental
 
 **Results:** 
 <figure>
-   <figcaption>Examples of H–k stacking for three stations: </figcaption>
+   <figcaption>Main results from P-receiver functions analysis: </figcaption>
  
   <img
-  src="ZRT_HK_Scandi.png"
+  src="RFs_Scandi.png"
   width="400">
 </figure>
 <figure>
-   <figcaption>Moho and Poisson's ratio maps: </figcaption>
-
-  <img
-  src="Moho_Poisson.png"
-  width="400">
-</figure>
-
-<p float="left">
-  <img src="ZRT_HK_Scandi.png" width="300" />
-  <img src="Moho_Poisson.png" width="300" /> 
-</p>
-
 ---
 
 ## Ambient seismic noise
