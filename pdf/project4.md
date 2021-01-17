@@ -11,7 +11,7 @@ Conventional plate tectonic theory does not explain why parts of the continental
 
 **Results:** 
 
-![Car Image](ZRT_HK_Scandi.png)
+![Car Image](ZRT_HK_Scandi.png){ width=50% }
 ---
 
 ## Ambient seismic noise
