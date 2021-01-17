@@ -11,10 +11,10 @@ Conventional plate tectonic theory does not explain why parts of the continental
 
 **Results:** 
 <figure>
+   <figcaption>Examples of H–k stacking for three stations </figcaption>
   <img
   src="ZRT_HK_Scandi.png"
   width="400">
-  <figcaption>MDN Logo</figcaption>
 </figure>
 
 
