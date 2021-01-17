@@ -11,13 +11,13 @@ Conventional plate tectonic theory does not explain why parts of the continental
 
 **Results:** 
 <figure>
-   <figcaption>Examples of H–k stacking for three stations </figcaption>
+   <figcaption>Examples of H–k stacking for three stations: </figcaption>
   <img
   src="ZRT_HK_Scandi.png"
   width="400">
 </figure>
 <figure>
-   <figcaption>Moho and Poisson's ratio maps </figcaption>
+   <figcaption>Moho and Poisson's ratio maps: </figcaption>
   <img
   src="Moho_Poisson.png"
   width="400">
