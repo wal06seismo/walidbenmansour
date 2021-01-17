@@ -22,7 +22,7 @@ Conventional plate tectonic theory does not explain why parts of the continental
   src="Moho_Poisson.png"
   width="400">
 </figure>
-<img src="ZRT_HK_Scandi.png" width="225"/> <img src="Moho_Poisson.png" width="225"/> 
+<img src="Moho_Poisson.png" width="425"/> <img src="Moho_Poisson.png" width="425"/> 
 ---
 
 ## Ambient seismic noise
