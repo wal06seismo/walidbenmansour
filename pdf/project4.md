@@ -9,7 +9,7 @@ Conventional plate tectonic theory does not explain why parts of the continental
 ## Receiver functions
 **Method:** Here, we use ZRT (vertical, radial and transverse) receiver functions calculated using the frequency domain method with a water level deconvolution (Ammon 1991; Clayton & Wiggins 1976; Langston 1979). The deconvolution removes source and propagation path affects from receiver effects after rotating the three-component waveforms to the backazimuth of the source path. This results in radial (ER) and transverse (ET) receiver functions. The water level is adjusted to the minimum value necessary to stabilize the deconvolution. In this study, a mean value of 10^−2 was selected, which reflects the relatively low signal-to-noise levels in much of the data. A Gaussian filter of width 2.0 was chosen which corresponds to a centre frequency of 1 Hz. Transverse receiver functions were used to identify noisy functions and the possibility of complex dipping structure beneath the station. 
 
-**Results:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Results:** 
 
 ---
 
