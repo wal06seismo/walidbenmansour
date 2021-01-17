@@ -16,9 +16,12 @@ Conventional plate tectonic theory does not explain why parts of the continental
   src="ZRT_HK_Scandi.png"
   width="400">
 </figure>
-
-
-<img src="Moho_Poisson.png" width="400">
+<figure>
+   <figcaption>Moho and Poisson's ratio maps </figcaption>
+  <img
+  src="Moho_Poisson.png"
+  width="400">
+</figure>
 ---
 
 ## Ambient seismic noise
