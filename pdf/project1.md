@@ -14,5 +14,9 @@ represents a unique opportunity to study the interactions of large ice sheets wi
 
 ## Publications
 
+**Conferences**
+
+Ben Mansour, W, Wiens, D. A., Shen, W., Lloyd, A.The thermochemical structure of West Antarctica from multi-observable probabilistic inversion. EGU General Assembly 2021, Conference abstract.
+
 
 ---
