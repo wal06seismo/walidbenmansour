@@ -1,6 +1,6 @@
 ## Physical state and thermochemical structure: Antarctica
 
-**Project description:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+**Project description:** Antarctica has always been the least understood continent in terms of geophysical structure as well as geological history. With more than 98% of the land surface covered with ice, geological sampling can only occur at very limited locations and is largely restricted to coastal regions or within the Transantarctic Mountains, which cross the continent, separating cratonic East Antarctica from West Antarctica. Thus, even fundamental geologic knowledge such as the age of various geographic provinces is generally missing.
 
 **Collaborators:** Douglas Wiens
 
