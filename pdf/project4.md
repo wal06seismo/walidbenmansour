@@ -12,8 +12,8 @@ Conventional plate tectonic theory does not explain why parts of the continental
 **Results:** 
 <figure>
   <img
-  src="https://developer.mozilla.org/static/img/favicon144.png"
-  alt="The beautiful MDN logo.">
+  src="ZRT_HK_Scandi.png"
+  width="400">
   <figcaption>MDN Logo</figcaption>
 </figure>
 
