@@ -1,6 +1,6 @@
 ## Appointments
 
-* 2021-present: Associate Editor of Earth Science, Systems and Society [https://www.escubed.org](https://www.escubed.org)
+* 2021-present: Associate Editor of Earth Science, Systems and Society ([https://www.escubed.org](https://www.escubed.org))
 * 2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University (USA).
 * 2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia).
 * 2017-2022: Honorary visiting fellow, School of Geography, Geology and the Environment at University of Leicester (UK)
