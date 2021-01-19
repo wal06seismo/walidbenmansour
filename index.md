@@ -23,7 +23,7 @@
 [Multi-observables thermochemical tomography of Central and southern Africa](/pdf/project3.md)
 
 ---
-[Seismic anisotropy](/pdf/project5.md)
+[Patagonian slab window](/pdf/project5.md)
 
 ---
 [Seismic study of the crust beneath the Northern Scandinavian mountains](/pdf/project4.md)
@@ -36,11 +36,11 @@
 ---
 
 ### Seminars
-* University of Leicester, Leicester, UK (2021) 
-* Macquarie University, Sydney, Australia (2021) 
-* Tulane University, New Orleans, US (2021) 
-* Penn state University, US (2021)
-* Washinghton University in Saint Louis, St Louis, US (2021)
+* University of Leicester, Leicester, UK (late 2021) 
+* Macquarie University, Sydney, Australia (late 2021) 
+* Tulane University, New Orleans, US (late 2021) 
+* Penn state University, US (late 2021)
+* Washinghton University in Saint Louis, St Louis, US (late 2021)
 * Université de Strasbourg, France (Janurary 2018)
 * University Claude Bernard Lyon, France (June 2017)
 * Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
