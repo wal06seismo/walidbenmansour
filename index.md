@@ -27,7 +27,7 @@ Plume interaction and spreading ridge: Galapagos archipelagos
 Multi-observables thermochemical tomography of Central and southern Africa
 
 ---
-Seismic study of the crust beneath the Northern Scandinavian mountains
+[Seismic study of the crust beneath the Northern Scandinavian mountains](/pdf/project4.md)
 
 ---
 
