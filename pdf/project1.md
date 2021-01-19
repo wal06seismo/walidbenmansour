@@ -20,6 +20,6 @@ Ben Mansour, W, Wiens, D. A., Shen, W., Lloyd, A.The thermochemical structure of
 
 **Proposals**
 
-Wiens, D. A., Ben Mansour, W, Wiens. Joint seismic and satellite gravity inversions for the structure of Antarctica
+Wiens, D. A., Ben Mansour, W, Wiens. Joint seismic and satellite gravity inversions for the structure of Antarctica.
 
 ---
