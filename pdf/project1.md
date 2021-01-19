@@ -16,7 +16,7 @@ coming soon ...
 
 ## Publications
 
-**Peer-review**
+**Peer-reviews**
 
 coming soon ...
 
