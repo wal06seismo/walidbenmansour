@@ -40,6 +40,7 @@ under construction
 * Ben Mansour, W., Wiens, D. A., Magnani, M., Shore, P. Mantle flow pattern through the Patagonian slab window and around the South America from shear wave splitting analysis. Seismological Society of America Annual Meeting 2021. Conference abstract.
 * Ben Mansour, W., Afonso, J.C, Foley, S., O'Reilly, S., Griffin, W., Selway, K. , Macdonald,A. ,Januszczak, N., Salajegheh F. Craton evolution: a more complex story from thermochemical imaging of the lithospheric and sub-lithospheric mantle. AGU Fall Meeting 2020, Conference abstract.
 * Fomin, I., Ben Mansour, W., Afonso, JC, Macdonald, A., Januszczak N. A multi-observable joint inversion for southern and central Africa in full 3D. GSA Annnual Meeting 2020, Conference abstract.
+
 ---
 
 ### Seminars
