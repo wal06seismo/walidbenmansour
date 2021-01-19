@@ -11,5 +11,5 @@ description: > # your text below (remove <br> elements if you don't need line br
          -- Mantle rheology 
          -- Seismic cycle 
          -- Subduction zone <br>
-
+  <img src="CH.png">     
 theme: jekyll-theme-minimal
