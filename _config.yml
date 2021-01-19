@@ -9,6 +9,7 @@ description: > # your text below (remove <br> elements if you don't need line br
     <br> -- Cratonic domains
          -- Volcanism
          -- Mantle rheology 
-         -- Seismic cycle   <br>
+         -- Seismic cycle 
+         -- Subduction zone <br>
 
 theme: jekyll-theme-minimal
