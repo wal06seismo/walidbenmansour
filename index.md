@@ -18,18 +18,16 @@
 [Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
 
 ---
-[Patagonian slab window]
+[Patagonian slab window](/pdf/project3.md)
 
 ---
-[Plume interaction and spreading ridge: Galapagos archipelagos]
+Plume interaction and spreading ridge: Galapagos archipelagos
 
 ---
-[Multi-observables thermochemical tomography of Central and southern Africa]
+Multi-observables thermochemical tomography of Central and southern Africa
 
 ---
 Seismic study of the crust beneath the Northern Scandinavian mountains
-
-under construction
 
 ---
 
