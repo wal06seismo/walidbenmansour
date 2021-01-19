@@ -29,7 +29,9 @@ noise, scattered coda waves). Seismic observations based on cross correlations b
 **Method:** We compute the vertical component of the cross-correlation matrix (Z-Z) using the methodology suggested by Bensen et al. [2007] to reconstruct the associated Rayleigh wave Green’s function. We process 2 sets of data corresponding to 2 recording periods of seismic noise (2007-2009 and 2013-2014) by using 48 seismic stations from 5 different seismic arrays (SCANLIPS2, SCANLIPS3D, LAPNET-POLENET, Finland seismological network, Norwegian National Seismic Network) covering our study area. We extracted about 500 group velocity (U) measurements from a frequency time analysis (FTAN) of the symmetric components (causal and acausal part) of the cross correlations. From our cross-correlograms, only the fundamental mode of the Rayleigh waves is visible due to the strong noise directivity from the interaction of Atlantic Ocean with the coast in our study area and weak velocity contrasts observed in Scandinavia.
 
 
-**Results:** updated coming soon
+**Results:** 
+
+coming soon
 
 ---
 
