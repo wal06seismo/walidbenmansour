@@ -3,7 +3,8 @@
 * 2021-present: Associate Editor of Earth Science, Systems and Society ([https://www.escubed.org](https://www.escubed.org))
 * 2020-present: Postdoctoral Research Associate, Department of Earth and Planetary Sciences at Washington University (USA)[*](https://eps.wustl.edu/people/walid-ben-mansour).
 * 2018-2020: Postdoctoral Fellow, Department of Earth and Environmental Sciences at Macquarie University (Australia).
-* 2017-2022: Honorary visiting fellow, School of Geography, Geology and the Environment at University of Leicester (UK)[**](https://le.ac.uk/gge/people/emeritus-honorary)
+* 2018-2000: ECS representative team member EGU-Seismology Division[**](https://blogs.egu.eu/divisions/sm/2018/05/11/the-new-ecs-reps-team-of-the-seismology-division/)
+* 2017-2022: Honorary visiting fellow, School of Geography, Geology and the Environment at University of Leicester (UK)[***](https://le.ac.uk/gge/people/emeritus-honorary)
 
 ---
 ## Education
