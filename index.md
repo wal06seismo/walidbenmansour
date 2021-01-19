@@ -18,7 +18,7 @@
 [Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
 
 ---
-[Patagonian slab window]
+Patagonian slab window
 
 ---
 Plume interaction and spreading ridge: Galapagos archipelagos
