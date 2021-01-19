@@ -34,6 +34,9 @@ Multi-observables thermochemical tomography of Central and southern Africa
 ## Selected Publications
 under construction
 
+## Recent conferences abstracts
+
+
 
 ---
 
