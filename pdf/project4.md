@@ -20,9 +20,12 @@ An analysis of the amplitude of the converted phases in receiver functions can p
   width="500">
 </figure>
 <figure>
----
 
+---
 ## Ambient seismic noise
+The principle ideas of ambient seismic noise imaging were proposed by Aki [1957] to retrieve the propagation properties of the subsurface and Claerbout [1968] to reconstruct the reflectivity profile. In the 2000’s, a series of papers [Weaver and Lobkis 2001; Derode et al. 2003; Campillo and Paul 2003; Wapenaar 2004; Larose et al. 2005] suggested measuring the elastic response of the Earth by extracting Green’s functions from diffuse or random wavefields (e.g. ambient
+noise, scattered coda waves). Seismic observations based on cross correlations between pairs of stations have confirmed the possibility to reconstruct surface waves Green’s functions using both coda waves [Campillo and Paul 2003; Paul et al. 2005; Froment et al. 2011; Chaput et al. 2016], long ambient noise sequences [Shapiro and Campillo 2004; Sabra et al. 2005; Shapiro et al. 2005; Poli et al. 2012b].
+
 **Method:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 **Results:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
