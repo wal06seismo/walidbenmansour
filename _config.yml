@@ -4,12 +4,12 @@ description: > # your text below (remove <br> elements if you don't need line br
   Structural seismologist-Geophysicist
   
   <br>Post-doctoral research fellow working on multi-observable probabilistic tomography for different targets (mining, seismic hazard).  <br>
-  
+  <img src="CH2.png">     
+
     <br>Research interests:   <br>
     <br> -- Cratonic domains
          -- Volcanism
          -- Mantle rheology 
          -- Seismic cycle 
          -- Subduction zone <br>
-  <img src="CH.png">     
 theme: jekyll-theme-minimal
