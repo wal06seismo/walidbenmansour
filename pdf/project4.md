@@ -43,7 +43,7 @@ Ben Mansour W (2017). Crustal properties in the transition from orogenic to crat
 
 England, R W, Ebbing Jorg, Ben Mansour, W (2016). SCANLIPS3D-SCANdinavian LIthosphere P and S wave experiment 3D. NERC-Geophysical Equiment Facility Report-Loan 959
 
-**Conferences**
+**Conferences** 
 
 Ben Mansour, W, England,R W, Fishwick, S,  Köhler, A, Moorkamp, M , Ottemøller, L, Smirnov, M. Crustal properties in the continuum Baltic Shield-Scandinavian Mountains from seismic ambient noise and magnetotelluric analysis. EGU General Assembly 2016. Conference abstract (Poster).
 
