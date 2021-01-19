@@ -20,6 +20,6 @@
 ---
 
 ## Publications
-Ben Mansour, W.,  Wiens, D. A., Magnani, M., SHore, P. Mantle flow pattern through the Patagonian slab window and around the South America from shear wave splitting analysis. Seismological Society of America Annual Meeting 2021. Conference abstract.
+Ben Mansour, W.,  Wiens, D. A., Magnani, M., Shore, P. Mantle flow pattern through the Patagonian slab window and around the South America from shear wave splitting analysis. Seismological Society of America Annual Meeting 2021. Conference abstract.
 
 ---
