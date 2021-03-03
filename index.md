@@ -19,16 +19,16 @@
 [Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
 
 ---
-Patagonian slab window
+Patagonian slab window (2020-present)
 
 ---
-Plume interaction and spreading ridge: Galapagos archipelagos
+Plume interaction and spreading ridge: Galapagos archipelagos (2018-2021)
 
 ---
-Multi-observables thermochemical tomography of Central and southern Africa
+Multi-observables thermochemical tomography of Central and southern Africa (2018-2021)
 
 ---
-[Seismic study of the crust beneath the Northern Scandinavian mountains]
+Seismic study of the crust beneath the Northern Scandinavian mountains
 
 ---
 
