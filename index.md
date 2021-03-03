@@ -49,7 +49,9 @@ under construction
 * Macquarie University, Sydney, Australia (late 2021) 
 * Tulane University, New Orleans, US (late 2021) 
 * Penn state University, US (late 2021)
-* Washinghton University in Saint Louis, St Louis, US (late 2021)
+* International Geophysics&Tectonics Seminar (April 2021)
+* University of the Witwatersrand, Johannesburg, SA (April 2021)
+* Washinghton University in Saint Louis, St Louis, US (April 2021)
 * Université de Strasbourg, France (Janurary 2018)
 * University Claude Bernard Lyon, France (June 2017)
 * Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
