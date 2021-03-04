@@ -45,7 +45,7 @@ under construction
 ---
 
 ### Seminars
-* [International Geophysics & Tectonics Seminar/https://sites.google.com/g.uky.edu/gtseminar/schedule/speakers] (April 2021)
+* [International Geophysics & Tectonics Seminar](https://sites.google.com/g.uky.edu/gtseminar/schedule/speakers) (April 2021)
 * University of the Witwatersrand, Johannesburg, SA (April 2021)
 * Washinghton University in Saint Louis, St Louis, US (April 2021)
 * Université de Strasbourg, France (Janurary 2018)
