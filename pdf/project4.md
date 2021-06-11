@@ -1,4 +1,4 @@
-## Seismic study of the crust beneath the Northern Scandinavian mountains
+## Seismic study of the crust beneath the Northern Scandinavian mountains (2012-2017)
 
 
 **Project description:**
