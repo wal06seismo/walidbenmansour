@@ -32,6 +32,7 @@ Plume interaction and spreading ridge: Galapagos archipelagos (2018-2021)
 
 ---
 Thermochemical structure of the lithospheric mantle beneath the Japanese archipelago (2020-present)
+
 ---
 
 ## Selected Publications
