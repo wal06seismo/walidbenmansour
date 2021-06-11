@@ -33,11 +33,11 @@ Seismic study of the crust beneath the Northern Scandinavian mountains
 ---
 
 ## Selected Publications
-[1] Afonso, J C, <b>Ben Mansour, W </b>, O’Reilly, S Y, Griffin, W L, Salajeghegh, F, Foley, S,  Begg, G, Selway, K, Macdonald, A, Januszczak, N, Fomin, I, Nyblade A A. Thermochemical structure and evolution of cratonic lithosphere in Central and South Africa. (submitted)
+[1] Afonso, J C, <b>Ben Mansour, W </b>, O’Reilly, S Y, Griffin, W L, Salajeghegh, F, Foley, S,  Begg, G, Selway, K, Macdonald, A, Januszczak, N, Fomin, I, Nyblade A A. Thermochemical structure and evolution of cratonic lithosphere in Central and South Africa (submitted).
 
 [2] <b>Ben Mansour, W </b>, England, R W, Moorkamp, M, Kohler A, Fishwick, S. NScandiCrust: new crustal model of the northern Scandinavia mountains from ambient seismic noise and receiver function analysis (working on revisions).
 
-[3] <b>Ben Mansour, W</b>,  England, R W, Fishwick, S., Moorkamp, M. Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions, 214,1, 386–401, doi: 10.1093/gji/ggy140 .
+[3] <b>Ben Mansour, W</b>,  England, R W, Fishwick, S., Moorkamp, M. Crustal properties of the northern Scandinavian mountains and Fennoscandian shield from analysis of teleseismic receiver functions, 214,1, 386–401, doi: 10.1093/gji/ggy140.
 
 ## Recent conferences abstracts
 
