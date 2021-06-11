@@ -28,7 +28,7 @@ Plume interaction and spreading ridge: Galapagos archipelagos (2018-2021)
 [Multi-observables thermochemical tomography of Central and southern Africa (2018-2021)](/pdf/project3.md)
 
 ---
-[Seismic study of the crust beneath the Northern Scandinavian mountains](/pdf/project4.md)
+[Seismic study of the crust beneath the Northern Scandinavian mountains (2012-2017)](/pdf/project4.md)
 
 ---
 
