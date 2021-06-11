@@ -51,7 +51,7 @@ Plume interaction and spreading ridge: Galapagos archipelagos (2018-2021)
 ---
 
 ### Recent seminars
-* [International Geophysics & Tectonics Seminar](https://youtu.be/lfe7DyoNAgc) (April 2021)
+* [UK International Geophysics & Tectonics Seminar, University of Kentucky](https://youtu.be/lfe7DyoNAgc) (April 2021)
 * University of the Witwatersrand, Johannesburg, SA (April 2021)
 * Washinghton University in Saint Louis, St Louis, US (April 2021)
 
