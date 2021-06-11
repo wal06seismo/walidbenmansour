@@ -39,7 +39,7 @@ Seismic study of the crust beneath the Northern Scandinavian mountains
 
 ## Recent conferences abstracts
 
-* <b>Ben Mansour, W, Wiens, D. A., Shen, W., Lloyd, A.The thermochemical structure of West Antarctica from multi-observable probabilistic inversion. EGU General Assembly 2021, [Conference abstract](https://meetingorganizer.copernicus.org/EGU21/EGU21-6917.html).
+* Ben Mansour, W, Wiens, D. A., Shen, W., Lloyd, A.The thermochemical structure of West Antarctica from multi-observable probabilistic inversion. EGU General Assembly 2021, [Conference abstract](https://meetingorganizer.copernicus.org/EGU21/EGU21-6917.html).
 * Ben Mansour, W., Wiens, D. A., Magnani, M., Shore, P. Mantle flow pattern through the Patagonian slab window and around the South America from shear wave splitting analysis. Seismological Society of America Annual Meeting 2021. [Conference abstract](https://seismosoc.secure-platform.com/a/solicitations/24/sessiongallery/463/application/6514).
 
 ---
