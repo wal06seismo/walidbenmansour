@@ -12,6 +12,7 @@
 
 ## Publications
 
+[1] Afonso, J C, Ben Mansour, W , O’Reilly, S Y, Griffin, W L, Salajeghegh, F, Foley, S, Begg, G, Selway, K, Macdonald, A, Januszczak, N, Fomin, I, Nyblade A A. Thermochemical structure and evolution of cratonic lithosphere in Central and South Africa (submitted).
 
 **Conferences**
 
