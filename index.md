@@ -35,7 +35,7 @@ Seismic study of the crust beneath the Northern Scandinavian mountains
 ## Selected Publications
 [1] Afonso, J C, Ben-Mansour, W, O’Reilly, S Y, Griffin, W L, Salajeghegh, F, Foley, S,  Begg, G, Selway, K, Macdonald, A, Januszczak, N, Fomin, I, Nyblade A A. Thermochemical structure and evolution of cratonic lithosphere in Central and South Africa. (submitted)
 
-[2] Ben-Mansour,W,England,R W,Moorkamp, M, Kohler A, Fishwick,S. NScandiCrust: new crustal model of the northern Scandinavia mountains from ambient seismic noise and receiver function analysis (working on revisions).
+[2] Ben-Mansour, W, England, R W, Moorkamp, M, Kohler A, Fishwick, S. NScandiCrust: new crustal model of the northern Scandinavia mountains from ambient seismic noise and receiver function analysis (working on revisions).
 ## Recent conferences abstracts
 
 * Ben Mansour, W, Wiens, D. A., Shen, W., Lloyd, A.The thermochemical structure of West Antarctica from multi-observable probabilistic inversion. EGU General Assembly 2021, [Conference abstract](https://meetingorganizer.copernicus.org/EGU21/EGU21-6917.html).
