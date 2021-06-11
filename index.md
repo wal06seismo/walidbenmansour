@@ -31,6 +31,8 @@ Plume interaction and spreading ridge: Galapagos archipelagos (2018-2021)
 [Seismic study of the crust beneath the Northern Scandinavian mountains (2012-2017)](/pdf/project4.md)
 
 ---
+Thermochemical structure of the lithospheric mantle beneath the Japanese archipelago (2020-present)
+---
 
 ## Selected Publications
 [1] Afonso, J C, <b>Ben Mansour, W </b>, O’Reilly, S Y, Griffin, W L, Salajeghegh, F, Foley, S,  Begg, G, Selway, K, Macdonald, A, Januszczak, N, Fomin, I, Nyblade A A. Thermochemical structure and evolution of cratonic lithosphere in Central and South Africa (submitted).
