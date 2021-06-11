@@ -46,14 +46,10 @@ Seismic study of the crust beneath the Northern Scandinavian mountains
 
 ---
 
-### Seminars
+### Recent seminars
 * [International Geophysics & Tectonics Seminar](https://youtu.be/lfe7DyoNAgc) (April 2021)
 * University of the Witwatersrand, Johannesburg, SA (April 2021)
 * Washinghton University in Saint Louis, St Louis, US (April 2021)
-* Université de Strasbourg, France (Janurary 2018)
-* University Claude Bernard Lyon, France (June 2017)
-* Christian-Albrechts-Universitat Kiel, Germany (Februrary 2017).
-* Geoazur, Université Côte d’Azur, France (November 2016).
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
