@@ -16,7 +16,7 @@
 ---
 ## Projects
 
-[Physical state and thermochemical structure: Antarctica](/pdf/project1.md)
+[Physical state and thermochemical structure: Antarctica (2020-present)](/pdf/project1.md)
 
 ---
 Patagonian slab window (2020-present)
